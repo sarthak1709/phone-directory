@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <div className="header">
-          Phone Directory
+      Phone Directory
         </div>
         <button>Add</button>
         <div>
